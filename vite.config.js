@@ -5,6 +5,6 @@ export default defineConfig({
 		outDir: 'build',
 	},
 	preview: {
-		port: 80,
+		port: 3000,
 	},
 });
